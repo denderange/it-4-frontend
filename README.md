@@ -1,1 +1,1 @@
-visit [https://present-minute.surge.sh/auth](https://present-minute.surge.sh/)
+visit https://present-minute.surge.sh
