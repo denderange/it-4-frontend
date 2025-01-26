@@ -1,0 +1,10 @@
+.customCheckbox {
+  width: 20px;
+  height: 20px;
+}
+
+@media (min-width: 510px) {
+  .loginForm {
+    width: 500px;
+  }
+}
