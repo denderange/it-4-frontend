@@ -1,1 +1,1 @@
-live at https://present-minute.surge.sh/auth
+visit https://present-minute.surge.sh/auth
